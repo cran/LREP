@@ -1,10 +1,10 @@
-d6a85876fb3c295b9fa6b4c4af37821e *DESCRIPTION
+4d886438242fde4ba93d533cceb579d5 *DESCRIPTION
 b5c33273ff792a1ae8d543e1112d3ea5 *NAMESPACE
-79c417a95e0c1b3773ed3f86805d6d8f *R/LREP-package.R
-c30c0f2e5fe4b106b8ff74e28d121b56 *R/expparetotest.R
-cab0e5ef0c1cfa6a21ad365cdae20dfe *R/sigmaalphaLREP.R
+68c1ca9b608bd4dfb185c16c607acaf9 *R/LREP-package.R
+fe2c92262833a69b14113960cdf02c94 *R/expparetotest.R
+af0004ce9b38fc80ad0f6b6ec6bb05fb *R/sigmaalphaLREP.R
 28cff085f44e787b8ce05c094652018d *README.md
-0f81f6f4f75bcfc57586c0b40fdb9272 *man/LREP-package.Rd
-4cd0aa5a476cea6076c08e2ceb094702 *man/expparetotest.Rd
+64910b28e5e8df6b14d14085aa218ca4 *man/LREP-package.Rd
+4a4a458214fce592980092aa638a48f8 *man/expparetotest.Rd
 5029e0c01e08f0f8326b4ad95af0c9e6 *man/figures/Table1.png
-430f06c6e5e17e0eda97dda55f43f9d1 *man/sigmaalphaLREP.Rd
+341660c9dc3f68e51c43f739ae17ff80 *man/sigmaalphaLREP.Rd
